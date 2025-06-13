@@ -14,7 +14,7 @@ With a commitment to continuous learning and professional development, I remain 
 *   🖥️  See my portfolio at [MyPortfolio](http://jeks042.github.io)
 *   ✉️  You can contact me at [chukwujekwujeks@gmail.com](mailto:chukwujekwujeks@gmail.com)
 *   🚀  I'm currently working on [MyYouTube Series](http://www.youtube.com/@JeksAnalytics)
-*   🧠  I'm also building training courses for my community via [My Website](http://www.jeksanalytics.com)
+*   🧠  I'm also building training courses for my community via [Jeks Analytics](http://www.jeksanalytics.com)
 *   🤝  I'm open to collaborating on EDA with SQL or Python | Machine Learning Models | Data Visualisation Gigs
 *   ⚡  I try to look smart and serious until you engage me... total clown! LOL
   
