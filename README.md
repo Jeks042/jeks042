@@ -10,11 +10,11 @@ Currently working as a Data Analyst with Ubisoft Reflections in Newcastle, UK, w
 
 With a commitment to continuous learning and professional development, I remain at the forefront of emerging trends and technologies in AI, Data Science and Analytics. My relentless pursuit of excellence and dedication to driving business impact make me a valuable asset to work with.
 
-*   🌍  I'm based in United Kingdom
+*   🌍  I'm based in the United Kingdom
 *   🖥️  See my portfolio at [MyPortfolio](http://jeks042.github.io)
 *   ✉️  You can contact me at [chukwujekwujeks@gmail.com](mailto:chukwujekwujeks@gmail.com)
 *   🚀  I'm currently working on [MyYouTube Series](http://www.youtube.com/@JeksAnalytics)
-*   🧠  I'm learning Quantum Algorithm for AI Modeling
+*   🧠  I'm also building training courses for my community via [My Website](http://www.jeksanalytics.com)
 *   🤝  I'm open to collaborating on EDA with SQL or Python | Machine Learning Models | Data Visualisation Gigs
 *   ⚡  I try to look smart and serious until you engage me... total clown! LOL
   
