@@ -1,7 +1,7 @@
 Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Chukwujekwu Joseph Ezema
 ================================================================================================================================================
 
-Data Analyst with over 3 years of experience | MSc Data Science | 2X MCDA | Machine Learning | Power BI | Tableau | Python | SQL
+Data Analyst with over 3 years of experience | MSc Data Science | 3X MCDA | Machine Learning | Power BI | Tableau | Python | SQL
 --------------------------------------------------------------------------------------------------------------------------------
 
 My name is Chukwujekwu Joseph Ezema, also called Jeks. I'm originally from Enugu State, Nigeria. I am an accomplished and results-orientated Data Analyst with a proven track record of delivering impactful insights and driving business growth for over 3 years. I graduated with distinction in MSc Data Science from Teesside University, UK. I equally bring wealth of knowledge and expertise to the table. 
