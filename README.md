@@ -1,12 +1,14 @@
 Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Chukwujekwu Joseph Ezema
 ================================================================================================================================================
 
-Data Analyst with over 3 years of experience | MSc Data Science | 3X MCDA | Machine Learning | Power BI | Tableau | Python | SQL
+Data Analyst with over 4 years of experience | MSc Data Science | 3X MCDA | Machine Learning | Power BI | Tableau | Python | SQL
 --------------------------------------------------------------------------------------------------------------------------------
 
 My name is Chukwujekwu Joseph Ezema, also called Jeks. I'm originally from Enugu State, Nigeria. I am an accomplished and results-orientated Data Analyst with a proven track record of delivering impactful insights and driving business growth for over 3 years. I graduated with distinction in MSc Data Science from Teesside University, UK. I equally bring wealth of knowledge and expertise to the table. 
 
-Currently working as a Data Analyst with Ubisoft Reflections in Newcastle, UK, where I leverage my advanced skills in Excel, Power BI, Tableau, JavaScript, Machine Learning with Python, SQL, and R to make data-driven impact and enhance operational efficiency. With a keen eye for details and enthusiasm for data and innovation, I thrive in dynamic environments, delivering actionable insights that fuel strategic initiatives and propel organisations forward. As a result, from a single unit role in the talent acquisition team, in the space of 9 months, my dedication and skills fetched me to manage studio-wide data analytics requests from other teams in Ubisoft both internally (in the UK) and externally (outside of the UK). 
+Currently working as a Data Analyst at Ubisoft Reflections in Newcastle, UK. He equally leverages his advanced skills in Excel, Power BI, Tableau, JavaScript, Python, SQL, and R—to champion data-driven training resources at Jeks Analytics Platform. With a keen eye for details and a passion for innovation, he thrives in dynamic environments, delivering actionable solutions that fuel strategic initiatives and propel organisations forward. From his YouTube engagements and community supports, he has mentored over 300 people who're transitioning into tech. 
+
+He also takes pride in his over 2.5 years of experience in the financial sector, gained at Page Financials in Lagos, Nigeria. As a Credit Analyst, he honed his customer relationship skills, problem-solving abilities, and analytical proficiency using Advanced Excel and CRM tools. His exceptional performance in Consumer Lending led him to be transferred to support functions as a Data Analyst 10 months before embarking on his master's in the UK.
 
 With a commitment to continuous learning and professional development, I remain at the forefront of emerging trends and technologies in AI, Data Science and Analytics. My relentless pursuit of excellence and dedication to driving business impact make me a valuable asset to work with.
 
