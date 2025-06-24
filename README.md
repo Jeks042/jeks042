@@ -4,7 +4,7 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 Data Analyst with over 4 years of experience | MSc Data Science | 3X MCDA | Machine Learning | Power BI | Tableau | Python | SQL
 --------------------------------------------------------------------------------------------------------------------------------
 
-My name is Chukwujekwu Joseph Ezema, also called Jeks. I'm originally from Enugu State, Nigeria. I am an accomplished and results-orientated Data Analyst with a proven track record of delivering impactful insights and driving business growth for over 3 years. I graduated with distinction in MSc Data Science from Teesside University, UK. I equally bring wealth of knowledge and expertise to the table. 
+My name is Chukwujekwu Joseph Ezema, also called Jeks. I'm originally from Enugu State, Nigeria. I am an accomplished and results-orientated Data Analyst with a proven track record of delivering impactful insights and driving business growth for over 4 years. I graduated with distinction in MSc Data Science from Teesside University, UK. I equally bring wealth of knowledge and expertise to the table. 
 
 Currently working as a Data Analyst at Ubisoft Reflections in Newcastle, UK. He equally leverages his advanced skills in Excel, Power BI, Tableau, JavaScript, Python, SQL, and R—to champion data-driven training resources at Jeks Analytics Platform. With a keen eye for details and a passion for innovation, he thrives in dynamic environments, delivering actionable solutions that fuel strategic initiatives and propel organisations forward. From his YouTube engagements and community supports, he has mentored over 300 people who're transitioning into tech. 
 
