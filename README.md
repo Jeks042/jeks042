@@ -16,15 +16,22 @@ My professional background spans gaming and financial services. Most recently, I
 
 ## Featured case study
 
+### [A/B Testing & Incremental Revenue](https://jeks042.github.io/ab-testing-incremental-revenue.html)
+
+A completed 64,000-customer randomised email experiment that identified the strongest treatment, translated causal spend lift into contribution profit, and rejected personalised targeting where held-out evidence was insufficient for deployment.
+
+[View case study](https://jeks042.github.io/ab-testing-incremental-revenue.html) · [Repository](https://github.com/Jeks042/ab-testing-incremental-revenue)
+
+## Supporting case study
+
 ### [Customer Churn, Retention & Value Prioritisation](https://github.com/Jeks042/Cymbal-Superstore-Analytics)
 
-An end-to-end simulated e-commerce analytics case using PostgreSQL, Python and Power BI to examine churn risk, customer value and cohort retention.
+A simulated e-commerce analytics case using PostgreSQL, Python and Power BI to examine churn risk, customer value and cohort retention.
 
 ## Portfolio roadmap
 
-1. **A/B Testing & Incremental Revenue** — treatment/control analysis, statistical power, commercial significance and cost-aware targeting
-2. **Subscription Churn & Retention Decision System** — temporal validation, model calibration and intervention economics
-3. **E-commerce Funnel & Revenue Analytics** — GA4 event data, BigQuery, conversion leakage and product opportunities
+1. **Subscription Churn & Retention Decision System** — temporal validation, model calibration and intervention economics
+2. **E-commerce Funnel & Revenue Analytics** — GA4 event data, BigQuery, conversion leakage and product opportunities
 
 ## Core toolkit
 
